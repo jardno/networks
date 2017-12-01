@@ -11,7 +11,7 @@ Step 4: You should be in the Data Laboratory panel and see a data table with the
 Step 5: In the upper lefthand corner, next to nodes, you should see a tab called edges. Click on it. This is the edge list, also known as the connections or relationships in between the nodes. This is an undirected network, meaning that the relationships are symmetrical. In other words, Javert talks to Valjean, but it could just as truthfully be said that Valjean talks to Javert (symmetry indicates repciprocity!).
 
 ![Image of Le Mis nodes]
-(networks/terminology-for-networks.png)
+(https://github.com/jardno/networks/terminology-for-networks.png)
 
 Step 6: Click on the Overview panel (upper lefthand side). Click on the T on the lower navigation menu to show the node labels.
 
