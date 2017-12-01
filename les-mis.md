@@ -1,4 +1,4 @@
-This tutorial works best in Gephi. 
+<h1>This tutorial works best in Gephi.</h1> 
 
 <b>Step 1</b>: Download and install Gephi. 
 
