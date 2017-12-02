@@ -4,7 +4,7 @@
 
 <b>Step 2</b>: Open Gephi and go to File > New Project. Next, update your version of Gephi. Go to Help > Check for Updates. 
 
-<b>Step 3</b>: Go to Window > Welcome and click on the Les Miserables.gexf file. This is an example of a character co-appearance network, based on Victor Hugo’s Les Misérables. You’ll see an Import Report telling you that this is an undirected graph with 77 nodes and 254 edges. Click OK.
+<b>Step 3</b>: Go to Window > Welcome and click on the Les Miserables.gexf file (this file comes pre-packaged within the program). This is an example of a character co-appearance network, based on Victor Hugo’s Les Misérables. You’ll see an Import Report telling you that this is an undirected graph with 77 nodes and 254 edges. Click OK.
 
 <b>Step 4</b>: You should be in the Data Laboratory panel and see a data table with the 77 nodes. Notice how the data is structured. You’ll see column headers called Nodes, Id, Label, Modularity Class. Someone has already either run a modularity algorithm on this dataset, or they coded the data manually. Modularity is a useful form of “community detection.” More on that here. Communities will have dense connections in between nodes, and sparse connections with nodes in other communities, very much like friend or family groups.
 
