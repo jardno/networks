@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-12-01">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="name" title="Name" type="string"></attribute>
+      <attribute id="gender" title="Gender" type="string"></attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="pageranks" title="PageRank" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="componentnumber" title="Component ID" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="clustering" title="Clustering Coefficient" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="triangles" title="Number of triangles" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="interactions" title="interactions" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="Rick">
+        <attvalues>
+          <attvalue for="name" value="Rick"></attvalue>
+          <attvalue for="gender" value="Male"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eigencentrality" value="0.8898876220943159"></attvalue>
+          <attvalue for="pageranks" value="0.12244246013981797"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+          <attvalue for="clustering" value="0.7"></attvalue>
+          <attvalue for="triangles" value="7"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-310.06677" y="-494.30096"></viz:position>
+        <viz:color r="255" g="189" b="112"></viz:color>
+      </node>
+      <node id="2" label="Morty">
+        <attvalues>
+          <attvalue for="name" value="Morty"></attvalue>
+          <attvalue for="gender" value="Male"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eigencentrality" value="1.0"></attvalue>
+          <attvalue for="pageranks" value="0.17533636837742847"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7692307692307693"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.85"></attvalue>
+          <attvalue for="betweenesscentrality" value="16.0"></attvalue>
+          <attvalue for="clustering" value="0.38095238095238093"></attvalue>
+          <attvalue for="triangles" value="8"></attvalue>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="-88.85287" y="-156.67422"></viz:position>
+        <viz:color r="255" g="189" b="112"></viz:color>
+      </node>
+      <node id="3" label="Summer">
+        <attvalues>
+          <attvalue for="name" value="Summer"></attvalue>
+          <attvalue for="gender" value="Female"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eigencentrality" value="0.8898876220943159"></attvalue>
+          <attvalue for="pageranks" value="0.12244246013981797"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+          <attvalue for="clustering" value="0.7"></attvalue>
+          <attvalue for="triangles" value="7"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="126.63568" y="68.50831"></viz:position>
+        <viz:color r="196" g="168" b="255"></viz:color>
+      </node>
+      <node id="4" label="Jerry">
+        <attvalues>
+          <attvalue for="name" value="Jerry"></attvalue>
+          <attvalue for="gender" value="Male"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eigencentrality" value="0.8887596313405471"></attvalue>
+          <attvalue for="pageranks" value="0.12278899861689427"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+          <attvalue for="clustering" value="0.7"></attvalue>
+          <attvalue for="triangles" value="7"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-26.192696" y="375.28088"></viz:position>
+        <viz:color r="255" g="189" b="112"></viz:color>
+      </node>
+      <node id="5" label="Beth">
+        <attvalues>
+          <attvalue for="name" value="Beth"></attvalue>
+          <attvalue for="gender" value="Female"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eigencentrality" value="0.9635227655135638"></attvalue>
+          <attvalue for="pageranks" value="0.18237503714528527"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7692307692307693"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.85"></attvalue>
+          <attvalue for="betweenesscentrality" value="20.0"></attvalue>
+          <attvalue for="clustering" value="0.3333333333333333"></attvalue>
+          <attvalue for="triangles" value="7"></attvalue>
+          <attvalue for="weighted degree" value="14.0"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="-511.28674" y="-170.09808"></viz:position>
+        <viz:color r="196" g="168" b="255"></viz:color>
+      </node>
+      <node id="6" label="Mr. Goldenfold">
+        <attvalues>
+          <attvalue for="name" value="Mr. Goldenfold"></attvalue>
+          <attvalue for="gender" value="Male"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eigencentrality" value="0.21482626898965848"></attvalue>
+          <attvalue for="pageranks" value="0.0349338326853328"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.45454545454545453"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="196.30737" y="-387.38785"></viz:position>
+        <viz:color r="255" g="189" b="112"></viz:color>
+      </node>
+      <node id="7" label="Jessica">
+        <attvalues>
+          <attvalue for="name" value="Jessica"></attvalue>
+          <attvalue for="gender" value="Female"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eigencentrality" value="0.4049819487107958"></attvalue>
+          <attvalue for="pageranks" value="0.05575333090066709"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47619047619047616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5499999999999999"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="1"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="468.72058" y="-40.30606"></viz:position>
+        <viz:color r="196" g="168" b="255"></viz:color>
+      </node>
+      <node id="8" label="Tom">
+        <attvalues>
+          <attvalue for="name" value="Tom"></attvalue>
+          <attvalue for="gender" value="Male"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eigencentrality" value="0.20764759630670163"></attvalue>
+          <attvalue for="pageranks" value="0.03576803502352441"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.45454545454545453"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-677.9902" y="-31.44268"></viz:position>
+        <viz:color r="255" g="189" b="112"></viz:color>
+      </node>
+      <node id="9" label="Davin">
+        <attvalues>
+          <attvalue for="name" value="Davin"></attvalue>
+          <attvalue for="gender" value="Male"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eigencentrality" value="0.20764759630670163"></attvalue>
+          <attvalue for="pageranks" value="0.03576803502352441"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.45454545454545453"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-543.5078" y="112.233154"></viz:position>
+        <viz:color r="255" g="189" b="112"></viz:color>
+      </node>
+      <node id="10" label="Principal V.">
+        <attvalues>
+          <attvalue for="name" value="Principal V."></attvalue>
+          <attvalue for="gender" value="Male"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eigencentrality" value="0.39762330700542026"></attvalue>
+          <attvalue for="pageranks" value="0.056638140849362764"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47619047619047616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.55"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="1"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-338.01138" y="232.31723"></viz:position>
+        <viz:color r="255" g="189" b="112"></viz:color>
+      </node>
+      <node id="11" label="Frank">
+        <attvalues>
+          <attvalue for="name" value="Frank"></attvalue>
+          <attvalue for="gender" value="Male"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eigencentrality" value="0.40498194871079574"></attvalue>
+          <attvalue for="pageranks" value="0.05575333090066709"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47619047619047616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5499999999999999"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="1.0"></attvalue>
+          <attvalue for="triangles" value="1"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="304.1695" y="-252.14119"></viz:position>
+        <viz:color r="255" g="189" b="112"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="2" weight="68.0">
+        <attvalues>
+          <attvalue for="interactions" value="68"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="1" target="3" weight="2.0">
+        <attvalues>
+          <attvalue for="interactions" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="1" target="4" weight="8.0">
+        <attvalues>
+          <attvalue for="interactions" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="1" target="5" weight="8.0">
+        <attvalues>
+          <attvalue for="interactions" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="1" target="7">
+        <attvalues>
+          <attvalue for="interactions" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="2" target="4" weight="3.0">
+        <attvalues>
+          <attvalue for="interactions" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="2" target="5" weight="2.0">
+        <attvalues>
+          <attvalue for="interactions" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="2" target="6" weight="3.0">
+        <attvalues>
+          <attvalue for="interactions" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="2" target="7" weight="2.0">
+        <attvalues>
+          <attvalue for="interactions" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="2" target="11" weight="2.0">
+        <attvalues>
+          <attvalue for="interactions" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="3" target="2" weight="2.0">
+        <attvalues>
+          <attvalue for="interactions" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="3" target="4" weight="2.0">
+        <attvalues>
+          <attvalue for="interactions" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="3" target="5" weight="3.0">
+        <attvalues>
+          <attvalue for="interactions" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="3" target="11">
+        <attvalues>
+          <attvalue for="interactions" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="4" target="5" weight="19.0">
+        <attvalues>
+          <attvalue for="interactions" value="19"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="5" target="8">
+        <attvalues>
+          <attvalue for="interactions" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="5" target="9" weight="2.0">
+        <attvalues>
+          <attvalue for="interactions" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="5" target="10" weight="2.0">
+        <attvalues>
+          <attvalue for="interactions" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="10" target="4" weight="3.0">
+        <attvalues>
+          <attvalue for="interactions" value="3"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
