@@ -29,4 +29,4 @@ For the purposes of class 14.1, we'll examine a few datasets that you can explor
 
 <b>Dataset #2</b>: The affiliations of American revolutionaries
 
-<b>Dataset #3</b>: [<i>Rick and Morty</i>](https://github.com/jardno/networks/blob/master/rick-and-morty.md)
+<b>Dataset #3</b>: [<i>Rick and Morty</i>](https://github.com/jardno/networks/blob/master/rick-and-morty/rick-and-morty.md)
