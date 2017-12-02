@@ -1,6 +1,6 @@
 <h1>This tutorial works best in Gephi.</h1> 
 
-<b>Step 1</b>: Download and install Gephi. 
+<b>Step 1</b>: Download and [install Gephi.](https://gephi.org/) 
 
 <b>Step 2</b>: Open Gephi and go to File > New Project. Next, update your version of Gephi. Go to Help > Check for Updates. 
 
