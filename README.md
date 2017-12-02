@@ -21,17 +21,9 @@ The GOT networks assess undirected relationships (proximity within sentence, cha
 
 NOTE: text mining and topic modeling tools can help you better assess the relationship nature; you'll just need to model terms (like we did with <i>Robots Reading Vogue</i>) that you believe will assess an antagonistic relationship, for example, then iterate over the corpus. 
 
-Before diving into <i>The Handmaid's Tale</i>, let's take a look at lower hanging fruit: animated television shows. Shows like <i>Family Guy</i>, <i>the Simpsons</i>, <i>Archer</i>, and <i>Rick and Morty</i> (used here) have a limited number of recurring characters, which reduces our workload to encode relationships. Another benefit is that people love making extensive wikis about these shows; this information can help you trace a character's appearance over one or multiple seasons. Last, the internet is abound with scripts that break episodes into specific scenes and use formatting that clearly identifies when a character speaks and to whom. 
-
-The files below show you my process of manually encoding <i>Rick and Morty</i> s01e01 ("Pilot").
-
-[rick-and-morty-nodes.csv](https://github.com/jardno/networks/blob/master/rick-and-morty-pilot-nodes.csv) provides a simple list of all named characters that appear in the episode with gender as an additional attribute. Each character has a unique id. This node file should be paired with [rich-and-morty-pilot.csv](https://github.com/jardno/networks/blob/master/rick-and-morty-pilot.csv), which lists the number of interactions <i>between</i> <b>each character</b> <i>within</i> <b>each scene</b>. I considered an interaction any instance a character spoke directly to another character or indirectly to a group of characters. The numbers in the Source and Target columns derive from the Id list in the node file.
-
-[rick-and-morty-new.csv](https://github.com/jardno/networks/blob/master/rick-and-morty-pilot-new.csv) aggregates the number of interactions between two characters <i>across the entire episode</i> as a <b>weight</b> (e.g., Morty -> speaks to -> Rick -> x number of times).
-
 <b>SOFTWARE/PLATFORMS</b>: We haven't talked about where to use this data. The third file (...new.csv) is best suited for Palladio (no Id number, clear weight for source-target interactions). The first two (...nodes.csv and ...pilot.csv) will work better with [Gephi](https://gephi.org/), an open-source application that has a very qGIS kind of feel. You are not required to download this software but it improves on Palladio's limitations. (And there are other platforms, too! I've listed them here with links to tutorials and overviews.)
 
-For the purposes of class 14.1, we'll examine a few datasets that you can explore more superficially (with Palladio) or in more analytical detail (with Gephi) depending on your interest in this topic. These datasets do not need to be reproduced; rather, you should use them as inspiration to decide how you will approach Atwood's The Handmaid's Tale.
+For the purposes of class 14.1, we'll examine a few datasets that you can explore more superficially (with Palladio) or in more analytical detail (with Gephi) depending on your interest in this topic. These datasets do not need to be reproduced; rather, you should use them as inspiration to decide how you will approach Atwood's <i>The Handmaid's Tale.</i>
 
 <b>Dataset #1</b>: [Characters of <i>Les Misèrables</i>](https://github.com/jardno/networks/blob/master/les-mis.md)
 
