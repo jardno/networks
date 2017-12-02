@@ -33,5 +33,5 @@ For the purposes of class 14.1, we'll examine a few datasets that you can explor
 
 <b>Dataset #3</b>: [<i>Rick and Morty</i>](https://github.com/jardno/networks/blob/master/rick-and-morty/rick-and-morty.md)
 
-<b>Dataset #4</b>: [<b>Optional<b>] [For those who want more practice with Palladio](https://github.com/jardno/palladio_workshop)
+<b>Dataset #4</b>: [<b>Optional</b>] [For those who want more practice with Palladio](https://github.com/jardno/palladio_workshop)
   
