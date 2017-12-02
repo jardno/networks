@@ -1,4 +1,4 @@
-
+<h1>Dataset 3: <i>Rick and Morty</i></h1>
 Before diving into <i>The Handmaid's Tale</i>, let's take a look at lower hanging fruit: animated television shows. Shows like <i>Family Guy</i>, <i>the Simpsons</i>, <i>Archer</i>, and <i>Rick and Morty</i> (used here) have a limited number of recurring characters, which reduces our workload to encode relationships. Another benefit is that people love making extensive wikis about these shows; this information can help you trace a character's appearance over one or multiple seasons. Last, the internet is abound with scripts that break episodes into specific scenes and use formatting that clearly identifies when a character speaks and to whom. 
 
 The files below show you my process of manually encoding <i>Rick and Morty</i> s01e01 ("Pilot").
