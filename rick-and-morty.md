@@ -8,3 +8,4 @@ The files below show you my process of manually encoding <i>Rick and Morty</i> s
 
 [rick-and-morty-new.csv](https://github.com/jardno/networks/blob/master/rick-and-morty-pilot-new.csv) aggregates the number of interactions between two characters <i>across the entire episode</i> as a <b>weight</b> (e.g., Morty -> speaks to -> Rick -> x number of times).
 
+![rick-morty-weighted](https://user-images.githubusercontent.com/24833217/33511875-16d2d2dc-d6d9-11e7-9af5-3095ca078bbb.png)
