@@ -29,7 +29,7 @@ For the purposes of class 14.1, we'll examine a few datasets that you can explor
 
 <b>Dataset #1</b>: [Characters of <i>Les Misérables</i>](https://github.com/jardno/networks/blob/master/les-mis/les-mis.md)
 
-<b>Dataset #2</b>: [The affiliations of American revolutionaries]()
+<b>Dataset #2</b>: [The affiliations of American revolutionaries](https://github.com/jardno/networks/blob/master/american-rev/american-rev.md)
 
 <b>Dataset #3</b>: [<i>Rick and Morty</i>](https://github.com/jardno/networks/blob/master/rick-and-morty/rick-and-morty.md)
 
