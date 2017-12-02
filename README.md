@@ -25,7 +25,7 @@ NOTE: text mining and topic modeling tools can help you better assess the relati
 
 For the purposes of class 14.1, we'll examine a few datasets that you can explore more superficially (with Palladio) or in more analytical detail (with Gephi) depending on your interest in this topic. These datasets do not need to be reproduced; rather, you should use them as inspiration to decide how you will approach Atwood's <i>The Handmaid's Tale.</i>
 
-<b>Dataset #1</b>: [Characters of <i>Les Misèrables</i>](https://github.com/jardno/networks/blob/master/les-mis.md)
+<b>Dataset #1</b>: [Characters of <i>Les Misèrables</i>](networks/les-mis/les-mis.md)
 
 <b>Dataset #2</b>: The affiliations of American revolutionaries
 
