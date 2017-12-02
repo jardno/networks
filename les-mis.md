@@ -37,3 +37,5 @@ In the screenshot below, I'm hovering over Valjean to see his direct connections
 If you're interested in how other people have approached this data, check out the following blogs:
 
 [Visualizing <i>Les Misérables</i> (Northwestern University)](https://lesmiserables.mla.hcommons.org/)
+
+If you're having difficulty styling and filtering your data, [check out this tutorial.](https://seinecle.github.io/gephi-tutorials/generated-html/using-filters-en.html)
