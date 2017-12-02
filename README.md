@@ -9,7 +9,7 @@ If you [wanna go fast](https://www.netflix.com/title/70044894): for those of you
 
 [The forked repository](https://github.com/jardno/asoiaf) for the <i>Game of Thrones</i> novels contains datasets created from co-occurence tests. You can get a sense of how plot lines develop (e.g., what's going on in Martin's mind) but gain fewer insights into the meaning of the co-occurence (e.g., if characters appear together because they are rivals at war or because they have familial ties....or...both).
 
-![GOT network[(https://github.com/jardno/networks/blob/master/images/thrones-network1.png)
+![GOT network](https://github.com/jardno/networks/blob/master/images/thrones-network1.png)
 
 The point here is that you need to have a plan ahead of time to determine where measurements of co-occurence can work productively for the type of question you're asking. Your "good question" should also keep in mind how you can assess the directionality of relationships, which determines how you will need to detect, sort, and present your data.
 
