@@ -34,7 +34,7 @@ In the screenshot below, I'm hovering over Valjean to see his direct connections
 
 <b>Step 8</b>: Next, click on the Preview panel. This is where you would go after you’ve got everything looking just the way you want it in the Overview panel. Click the Refresh button. Your labels will have dropped out again, but you can add them again by clicking on Show labels in the menu to your left and clicking on Refresh. You may find that the Proportional size option impairs the readability of the graph. If so uncheck it, and adjust the font manually to something like 24 pt, and click Refresh once more. You can also select different line types (curved, straight, etc.) from the preset drop down within the Preview Settings panel (Window > Preview Settings). 
 
-<b>Step 9</b>: Save your graph as a PDF.
+<b>Step 9</b>: Save your graph as a PDF. ([Here's an example of a PDF output from Gephi](https://github.com/jardno/networks/blob/master/les-mis/lesmis.pdf))
 
 If you're interested in how other people have approached this data, check out the following blogs:
 
